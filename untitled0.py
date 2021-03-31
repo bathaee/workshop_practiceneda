@@ -7,4 +7,6 @@ Created on Wed Mar 31 10:08:18 2021
 """
 
 import numpy as np
-print(hello)
+print('hello')
+
+print('Hallo')
